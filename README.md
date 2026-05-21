@@ -129,4 +129,4 @@ supabase/                   db migrations + config
 
 ---
 
-**built by jerlyn francis · coventry university · 2026**
+**built by jerlyn francis · university of liverpool · 2026**

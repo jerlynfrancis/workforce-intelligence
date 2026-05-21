@@ -218,7 +218,7 @@ export default function Archetypes() {
 
       <Card>
         <Title>All Sites — Archetype Classification</Title>
-        <div className="mt-4">
+        <div className="mt-4 overflow-x-auto">
           <Table>
             <TableHead>
               <TableRow>
@@ -235,7 +235,7 @@ export default function Archetypes() {
             <TableBody>
               {data.map((d) => (
                 <TableRow key={d.site_id}>
-                  <TableCell className="font-medium">{d.site_name}</TableCell>
+                  <TableCell className="font-medium whitespace-nowrap">{d.site_name}</TableCell>
                   <TableCell>{d.region}</TableCell>
                   <TableCell>
                     <Badge color={CLUSTER_COLORS[d.cluster]} size="sm">
@@ -255,16 +255,16 @@ export default function Archetypes() {
                       {formatPercent(d.avg_service_level)}
                     </Badge>
                   </TableCell>
-                  <TableCell className="text-right">
+                  <TableCell className="text-right whitespace-nowrap">
                     {formatPercent(d.avg_absence_rate / 100)}
                   </TableCell>
-                  <TableCell className="text-right">
+                  <TableCell className="text-right whitespace-nowrap">
                     {formatPercent(d.avg_agency_ratio)}
                   </TableCell>
-                  <TableCell className="text-right">
+                  <TableCell className="text-right whitespace-nowrap">
                     {formatCurrency(d.avg_cost_per_hour)}
                   </TableCell>
-                  <TableCell className="text-right">
+                  <TableCell className="text-right whitespace-nowrap">
                     {(d.weekend_sl_gap * 100).toFixed(1)}%
                   </TableCell>
                 </TableRow>

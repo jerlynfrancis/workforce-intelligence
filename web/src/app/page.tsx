@@ -231,7 +231,7 @@ export default function ExecutiveSummary() {
             showLegend
             showGridLines
           />
-          <div className="mt-4">
+          <div className="mt-4 overflow-x-auto">
             <Table>
               <TableHead>
                 <TableRow>
@@ -246,7 +246,7 @@ export default function ExecutiveSummary() {
                   <TableRow key={r.region}>
                     <TableCell className="font-medium">{r.region}</TableCell>
                     <TableCell className="text-right">{r.site_count}</TableCell>
-                    <TableCell className="text-right">{formatCurrency(r.labour_cost)}</TableCell>
+                    <TableCell className="text-right whitespace-nowrap">{formatCurrency(r.labour_cost)}</TableCell>
                     <TableCell className="text-right">
                       <Badge color={r.avg_service_level >= 0.88 ? "emerald" : "amber"}>
                         {formatPercent(r.avg_service_level)}
@@ -285,7 +285,7 @@ export default function ExecutiveSummary() {
           <Text className="mt-1 text-zinc-500">
             Top &amp; bottom sites by service level
           </Text>
-          <div className="mt-4">
+          <div className="mt-4 overflow-x-auto">
             <Table>
               <TableHead>
                 <TableRow>
@@ -316,8 +316,8 @@ export default function ExecutiveSummary() {
                         {formatPercent(s.avg_service_level)}
                       </Badge>
                     </TableCell>
-                    <TableCell className="text-right">{formatCurrency(s.labour_cost)}</TableCell>
-                    <TableCell className="text-right">{formatPercent(s.agency_ratio)}</TableCell>
+                    <TableCell className="text-right whitespace-nowrap">{formatCurrency(s.labour_cost)}</TableCell>
+                    <TableCell className="text-right whitespace-nowrap">{formatPercent(s.agency_ratio)}</TableCell>
                   </TableRow>
                 ))}
               </TableBody>

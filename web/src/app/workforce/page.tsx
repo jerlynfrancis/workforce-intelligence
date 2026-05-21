@@ -217,7 +217,7 @@ export default function Workforce() {
         <Text className="mt-1 text-zinc-500">
           Sites sorted by highest average absence rate
         </Text>
-        <div className="mt-4">
+        <div className="mt-4 overflow-x-auto">
           <Table>
             <TableHead>
               <TableRow>
@@ -248,8 +248,8 @@ export default function Workforce() {
                     </Badge>
                   </TableCell>
                   <TableCell className="text-right">{s.avg_turnover.toFixed(1)}</TableCell>
-                  <TableCell className="text-right">{Math.round(s.avg_agency)}</TableCell>
-                  <TableCell className="text-right">{Math.round(s.avg_total_staff)}</TableCell>
+                  <TableCell className="text-right whitespace-nowrap">{Math.round(s.avg_agency)}</TableCell>
+                  <TableCell className="text-right whitespace-nowrap">{Math.round(s.avg_total_staff)}</TableCell>
                 </TableRow>
               ))}
             </TableBody>

@@ -247,7 +247,7 @@ export default function Scenarios() {
         <Text className="mt-1 text-zinc-500">
           Agency and overtime spend by site
         </Text>
-        <div className="mt-4">
+        <div className="mt-4 overflow-x-auto">
           <Table>
             <TableHead>
               <TableRow>
@@ -262,12 +262,12 @@ export default function Scenarios() {
             <TableBody>
               {siteCosts.map((s) => (
                 <TableRow key={s.site_id}>
-                  <TableCell className="font-medium">{s.site_name}</TableCell>
+                  <TableCell className="font-medium whitespace-nowrap">{s.site_name}</TableCell>
                   <TableCell>{s.region}</TableCell>
-                  <TableCell className="text-right">
+                  <TableCell className="text-right whitespace-nowrap">
                     {formatCurrency(s.labour_cost)}
                   </TableCell>
-                  <TableCell className="text-right">
+                  <TableCell className="text-right whitespace-nowrap">
                     <Badge
                       color={
                         s.agency_ratio > 0.1
@@ -280,10 +280,10 @@ export default function Scenarios() {
                       {formatCurrency(s.agency_cost)}
                     </Badge>
                   </TableCell>
-                  <TableCell className="text-right">
+                  <TableCell className="text-right whitespace-nowrap">
                     {formatCurrency(s.overtime_cost)}
                   </TableCell>
-                  <TableCell className="text-right">
+                  <TableCell className="text-right whitespace-nowrap">
                     {(s.agency_ratio * 100).toFixed(1)}%
                   </TableCell>
                 </TableRow>

@@ -213,7 +213,7 @@ export default function SitePerformance() {
             </Select>
           </div>
         </Flex>
-        <div className="mt-4">
+        <div className="mt-4 overflow-x-auto">
           <Table>
             <TableHead>
               <TableRow>
@@ -221,7 +221,7 @@ export default function SitePerformance() {
                 <TableHeaderCell>Region</TableHeaderCell>
                 <TableHeaderCell>Type</TableHeaderCell>
                 <TableHeaderCell className="text-right">Labour Cost</TableHeaderCell>
-                <TableHeaderCell className="text-right">Hours Variance</TableHeaderCell>
+                <TableHeaderCell className="text-right">Hours Var</TableHeaderCell>
                 <TableHeaderCell className="text-right">Service Level</TableHeaderCell>
                 <TableHeaderCell className="text-right">Agency Cost</TableHeaderCell>
                 <TableHeaderCell className="text-right">Overtime</TableHeaderCell>
@@ -234,10 +234,10 @@ export default function SitePerformance() {
                   : 0;
                 return (
                   <TableRow key={s.site_id}>
-                    <TableCell className="font-medium">{s.site_name}</TableCell>
+                    <TableCell className="font-medium whitespace-nowrap">{s.site_name}</TableCell>
                     <TableCell>{s.region}</TableCell>
                     <TableCell>{s.site_type}</TableCell>
-                    <TableCell className="text-right">{formatCurrency(s.labour_cost)}</TableCell>
+                    <TableCell className="text-right whitespace-nowrap">{formatCurrency(s.labour_cost)}</TableCell>
                     <TableCell className="text-right">
                       <Badge color={hoursVar > 5 ? "red" : hoursVar < -5 ? "amber" : "emerald"}>
                         {hoursVar > 0 ? "+" : ""}
@@ -257,8 +257,8 @@ export default function SitePerformance() {
                         {formatPercent(s.avg_sl)}
                       </Badge>
                     </TableCell>
-                    <TableCell className="text-right">{formatCurrency(s.agency_cost)}</TableCell>
-                    <TableCell className="text-right">{formatCurrency(s.overtime_cost)}</TableCell>
+                    <TableCell className="text-right whitespace-nowrap">{formatCurrency(s.agency_cost)}</TableCell>
+                    <TableCell className="text-right whitespace-nowrap">{formatCurrency(s.overtime_cost)}</TableCell>
                   </TableRow>
                 );
               })}
