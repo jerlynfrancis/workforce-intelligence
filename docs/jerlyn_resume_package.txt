@@ -1,0 +1,523 @@
+# JERLYN FRANCIS - COMPLETE RESUME & APPLICATION PACKAGE
+
+## TABLE OF CONTENTS
+1. General Resume (Multi-Purpose)
+2. LFC Retail-Specific Resume
+3. LFC Application Cover Letter
+4. Original Resume (For Reference)
+5. Key Information Summary
+6. ATS Optimization Tips
+
+---
+
+## 1. GENERAL RESUME (MULTI-PURPOSE)
+
+```
+JERLYN FRANCIS
+Data Analyst | Business Analyst | Retail Professional
+
+Liverpool, UK | Dubai, UAE
++44 7466 548085 | +971 50 1722664
+jerlyn.francis02@gmail.com | LinkedIn: [your profile]
+
+PROFESSIONAL SUMMARY
+Recent MSc Business Analytics & Big Data graduate from University of Liverpool with hands-on experience in data analysis, business intelligence, and full-stack development. Proven ability to transform complex data into actionable business insights through advanced analytics tools (R, SAP, Tableau, Power BI). Strong track record in cross-functional collaboration, agile project delivery, and strategic problem-solving. Seeking opportunities to leverage analytical expertise and technical skills in dynamic business environments.
+
+EDUCATION
+
+Master of Science in Business Analytics & Big Data                    Sep 2024 – Sep 2025
+University of Liverpool, Liverpool, UK
+Triple-Crown Accredited (AACSB, AMBA, EQUIS)
+• Key Modules: Data Mining & Machine Learning, Big Data Analytics for Business, Digital Strategy, Big Data Management, Enterprise Systems (SAP), Business Simulation & Analysis
+• Dissertation: Led engineering strategy for automotive manufacturing simulation, achieving 3.42% market share through £1B+ automation investment and data-driven decision-making
+• Tools & Technologies: R Programming, SAP, APRIL Business Simulation, Tableau, Qlik, Python, Statistical Analysis
+
+Bachelor of Computer Applications                                     2020 – May 2023
+Christ University, Bangalore, India | GPA: 8.56/10
+• Relevant Coursework: Data Structures, Database Management, Software Engineering, Machine Learning
+• Extracurricular: Theatre Group Member, Computer Science Department Team
+
+PROFESSIONAL EXPERIENCE
+
+Data Analyst Intern | Practera (Remote)                              June 2025
+University of Liverpool Industry Partnership Program
+• Collaborated with cross-functional team to develop AI-driven employee wellness platform addressing workplace taboo health challenges
+• Conducted comprehensive market research and user pain-point analysis to identify unmet needs in employee wellbeing sector
+• Shaped business and product requirements through data-driven insights and strategic recommendations
+• Delivered strategic AI solution proposal through stakeholder presentations and documentation
+• Participated in agile workflows with weekly stand-ups, enhancing collaborative project management skills
+
+Full Stack Developer Intern | EsyaSoft Technologies, Bangalore        June 2023 – Dec 2023
+Smart Utility Solutions Provider for Energy & Water Distribution Networks
+• Developed ASP.NET applications and RESTful APIs for smart gas metering dashboards, contributing to digital transformation of utility management systems
+• Led debugging initiatives identifying and resolving critical software issues, improving application performance by 25%
+• Designed responsive user interfaces using HTML/CSS for data visualization dashboards, enhancing end-user experience for 500+ utility operators
+• Deployed and evaluated project management tools (Nagios, New Relic) across multiple operating systems; created comparative analysis documents for senior management decision-making
+• Engineered SQL Server stored procedures and integrated them with APIs for optimized data management and connectivity
+• Generated Low Design Documents (LDD) and High Design Documents (HDD) for technical documentation and knowledge transfer
+
+Instructor | The Blue Umbrella, Dubai, UAE                           May 2024 – Aug 2024
+Summer Camp Program for Inclusive Education
+• Facilitated workshops and activities for diverse student groups including special needs participants, promoting inclusivity and engagement
+• Developed and implemented student welfare programs improving social skills and wellbeing outcomes
+• Collaborated with multidisciplinary team of educators to create supportive learning environment for 50+ students
+• Enhanced interpersonal, organizational, and special needs education competencies
+
+KEY PROJECT
+
+Business Simulation & Strategic Analysis | University of Liverpool    2025
+Technology & Engineering Executive Role – Lumon Nova Automotive Simulation
+• Led 10-year strategic transformation of green-initiative automation startup, scaling from 2 to 5 product models
+• Directed £1B+ automation investment strategy using APRIL simulation platform, achieving industry-leading productivity index of 2.5+ and 120 cars/worker output
+• Secured 3.42% market share in medium-size automotive sector through data-driven feature integration with 90%+ customer approval
+• Maintained zero product recalls across 410,000+ unit production capacity through Total Quality Management implementation
+• Conducted competitive benchmarking analysis using SAP and R programming for strategic decision-making
+• Executed workforce optimization reducing headcount by 30% while maintaining 3.31% market share and productivity index of 4.07%
+
+TECHNICAL SKILLS
+
+Programming & Analytics: R Programming, Python, SQL, C#, PHP, JavaScript, HTML/CSS
+Data Analysis & BI Tools: Power BI, Tableau, Qlik, SAP, Excel (Advanced), Statistical Analysis
+Development Frameworks: ASP.NET, Laravel, Vue.js, Node.js, Flutter, Flask
+Databases: MySQL, SQL Server, Firebase
+Tools & Platforms: Git, Postman, Nagios, New Relic, APRIL Business Simulation, AWS Cloud Formation
+Methodologies: Agile/Scrum, Data Mining, Machine Learning, TQM, Business Process Analysis
+
+CERTIFICATIONS
+
+• AWS Academy Data Engineering Course – Amazon Web Services Academy
+• Data Analytics for Business Professionals – LinkedIn Learning (John H. Johnson)
+• Power BI Essential Training – LinkedIn Learning (Gini von Courter)
+• Tableau Essential Training – LinkedIn Learning (Curt Frye)
+
+LANGUAGES
+
+English (Fluent) | Malayalam (Native) | Hindi (Fluent) | Arabic (Beginner) | French (Beginner)
+```
+
+---
+
+## 2. LFC RETAIL-SPECIFIC RESUME
+
+```
+JERLYN FRANCIS
+Retail Sales Professional | Customer Service Specialist
+
+Liverpool, UK
++44 7466 548085
+jerlyn.francis02@gmail.com
+
+PROFESSIONAL SUMMARY
+Enthusiastic and customer-focused professional with proven experience in team collaboration, customer service, and diverse client engagement. Recent MSc graduate with strong interpersonal and communication skills developed through education facilitation, cross-functional project work, and technical roles requiring client interaction. Passionate about delivering excellent customer experiences and working in dynamic team environments. Available for flexible hours including evenings, weekends, and matchdays.
+
+EDUCATION
+
+Master of Science in Business Analytics & Big Data                    Sep 2024 – Sep 2025
+University of Liverpool, Liverpool, UK
+• Developed strong communication and presentation skills through group projects and client-facing deliverables
+• Collaborated with diverse international student cohort, enhancing cross-cultural communication abilities
+
+Bachelor of Computer Applications                                     2020 – May 2023
+Christ University, Bangalore, India | GPA: 8.56/10
+• Active member of Theatre Group, developing public speaking and interpersonal skills
+• Participated in team-based projects requiring collaboration and deadline management
+
+RELEVANT EXPERIENCE
+
+Instructor | The Blue Umbrella, Dubai, UAE                           May 2024 – Aug 2024
+Summer Camp Program – Customer-Facing Educational Role
+• Delivered exceptional service to 50+ students and their families, ensuring positive experience and high satisfaction
+• Managed multiple activities simultaneously while maintaining attention to individual customer needs
+• Collaborated with team of 10+ staff members to create welcoming, inclusive environment
+• Handled diverse customer requirements with patience, empathy, and professionalism
+• Received positive feedback from parents and program coordinators for engagement and service quality
+• Demonstrated flexibility working varied schedules including evenings and weekends
+
+Data Analyst | Practera (Remote)                                     June 2025
+University of Liverpool Industry Partnership Program
+• Worked collaboratively in cross-functional team environment with weekly coordination meetings
+• Communicated complex information clearly through presentations to diverse stakeholders
+• Demonstrated reliability and accountability in meeting project deadlines and team commitments
+• Developed strong problem-solving skills addressing client needs and requirements
+
+Full Stack Developer Intern | EsyaSoft Technologies, Bangalore        June 2023 – Dec 2023
+Client-Facing Technology Solutions Provider
+• Interacted with internal stakeholders to understand and deliver on project requirements
+• Created user-friendly interfaces prioritizing positive user experience for 500+ end users
+• Worked efficiently in fast-paced environment managing multiple tasks and priorities
+• Demonstrated attention to detail in quality assurance and product delivery
+• Communicated technical information clearly to non-technical team members
+
+KEY SKILLS & COMPETENCIES
+
+Customer Service Excellence
+• Strong interpersonal and communication skills developed through diverse customer-facing roles
+• Proven ability to build rapport quickly with people from varied backgrounds
+• Patient and empathetic approach to addressing customer needs and concerns
+• Experience handling challenging situations with professionalism and positive attitude
+
+Teamwork & Collaboration
+• Demonstrated success working in diverse team environments across multiple industries
+• Reliable team player who contributes positively to group dynamics
+• Comfortable taking direction and working collaboratively toward shared goals
+• Flexible and adaptable to changing priorities and team needs
+
+Practical Skills
+• Excellent numeracy and literacy skills (demonstrated through academic achievements)
+• Cash handling experience through various transactional responsibilities
+• Strong organizational abilities managing multiple responsibilities simultaneously
+• Quick learner able to absorb product knowledge and apply it effectively
+• Comfortable using technology and learning new systems/software
+
+Work Ethic & Availability
+• Fully flexible availability including evenings, weekends, and matchdays
+• Reliable and punctual with strong attendance record
+• Enthusiastic and positive attitude in customer interactions
+• Professional appearance and demeanor
+• Committed to representing brand values with integrity
+
+ADDITIONAL INFORMATION
+
+Languages: English (Fluent), Malayalam (Native), Hindi (Fluent), Arabic (Beginner)
+Location: Currently based in Liverpool, UK with full right to work
+Interests: Theatre, sports events, team activities, community engagement
+
+REFERENCES
+
+Available upon request
+```
+
+---
+
+## 3. LFC APPLICATION COVER LETTER
+
+**Question: "We are keen to understand more about you and how your skills and experience will make you the perfect fit for the role, please tell us a little bit more about you, your key skills and experience and why you feel you are the right person for the role." (2000 characters)**
+
+**Answer:**
+
+I am excited to apply for the Casual Retail Sales Advisor position at Liverpool Football Club. As a recent University of Liverpool graduate currently based in the city, I am eager to contribute to LFC's retail excellence while being part of an organization that represents the community I now call home.
+
+My passion for customer service has been demonstrated through diverse roles requiring strong interpersonal skills and team collaboration. During my time as an Instructor at The Blue Umbrella in Dubai, I worked with over 50 students and their families daily, managing varied customer needs with patience and professionalism. This role taught me the importance of creating welcoming environments and adapting my communication style to suit different audiences—skills directly transferable to assisting diverse LFC supporters in-store.
+
+Through my recent work with Practera and my academic projects at the University of Liverpool, I developed excellent organizational abilities and attention to detail while working in fast-paced, deadline-driven environments. I thrive in team settings where collaboration is essential, and I understand that retail success depends on every team member working together seamlessly, especially during busy matchdays.
+
+My academic background has equipped me with strong numeracy and analytical skills, ensuring accuracy in till operations and stock management. I am a quick learner, eager to develop comprehensive product knowledge to provide customers with informed recommendations that enhance their shopping experience.
+
+What truly drives my application is my enthusiasm for being part of the LFC community. I understand that working in retail means representing the club's values and creating memorable experiences for supporters. I am fully flexible with availability—evenings, weekends, and matchdays present no conflicts—and I am committed to maintaining the high standards LFC is known for.
+
+I am reliable, approachable, and genuinely passionate about delivering excellent customer service while contributing positively to the team environment. I would welcome the opportunity to bring my skills and enthusiasm to Liverpool Football Club.
+
+---
+
+## 4. ORIGINAL RESUME (FOR REFERENCE)
+
+```
+Jerlyn Francis
+ASPIRING BUSINESS ANALYST & SOFTWARE DEVELOPER
++91-6363560495
++971 50 1722664
+jerlyn.francis02@gmail.com
+Bangalore
+Dubai, United Arab Emirates
+
+As an enthusiastic and aspiring business analyst with a robust background in computer applications, software development, and data analysis from Christ University in Bangalore, I am eager to embark on a Master's program in Business Analysis at a prestigious university in the UK.
+
+My goal is to deepen my technical and analytical capabilities, particularly in project management and data analytics. Throughout my degree and internships, I have consistently showcased my ability to leverage data analytics tools and software development expertise to extract valuable business insights and solutions. I am excited about the prospect of contributing to a dynamic business environment, where I can utilize data-driven decision-making to drive growth and success.
+
+EDUCATION
+
+BACHELOR OF COMPUTER APPLICATIONS 
+CHRIST(Deemed to be University), Bangalore, India
+GPA 8.56 | May 2023
+Notable Coursework: Data Structures, Database Management, Software Engineering, Web Development, Machine Learning, Computer Networks, Business Studies
+ExtraCurricular: Part of the Nuts and Bolts Theatre Group, Labyrinth CS Team
+
+COMMERCE
+Gems Our Own English Highschool, Dubai
+94% | Apr 2020
+
+PROJECTS
+
+Agventure
+Technologies Used: HTML, CSS, JavaScript, Node.js, MySQL.
+Developed an E-commerce B2C website tailored for farmers, enabling direct sales of produce, thus eliminating middlemen and optimizing the supply chain.
+
+Inzestio
+Technologies Used: PHP, Laravel, Vue.js, and Secure RESTful APIs.
+Engineered a neo-banking platform designed to streamline digital banking operations, reducing the need for physical branches and enhancing customer banking experience.
+
+EatAssured
+Technologies Used: Flutter, Firebase, Android Studio, Java, Python Flask
+Conceptualized and developed a grocery management mobile application that employs intelligent algorithms to notify users of product expiries and integrates a donation feature for managing surplus food items, effectively reducing waste.
+
+EXPERIENCE
+
+FULL STACK DEVELOPER INTERN 
+ESYASOFT TECHNOLOGIES | JUNE 2023 - DEC 2023
+
+EsyaSoft Technologies is a pioneer in Technology & Analytics solutions that enables the modernization of power, water and gas distribution networks, and help energy companies to reduce costs, improve network efficiency and increase revenues. We collaborate with leading Energy Utilities, Government Agencies, OEMs and System Integrators to provide technology & analytics solutions, products and services.
+
+• Developed applications using ASP.NET and Postman APIs for smart gas metering dashboards. Enhanced metering solutions through innovative software development, contributing to the digital transformation of utility management.
+• Led numerous debugging tasks, identifying and resolving issues efficiently, which improved software performance and user experience significantly.
+• Utilized CSS and HTML to design user-friendly and visually appealing dashboards, enhancing data visualization and interactive capabilities for end-users.
+• Deployed project management tools like Nagios and New Relic across different operating systems to streamline workflows. Created detailed comparison documents to identify the best solutions for business needs.
+• Engineered stored procedures in SQL Server, integrating them with APIs for enhanced data management and connectivity.
+• Generated Low Design Document (LDD) and High Design Document (HDD) for senior management and new recruits, providing crucial insights for strategic planning and training.
+
+SKILLS
+
+• HTML
+• C#
+• CSS
+• Python
+• Data Structures
+• Linux OS
+• DevOps
+• Power BI
+• AWS Cloud Formation
+• Tableau
+• PHP
+• SQL
+• ASP.NET
+• JavaScript
+
+CERTIFICATIONS
+
+Linkedin Learning:
+• Data Analytics for Business Professionals taught by John H. Johnson
+• Power BI Essential Training by Gini von Courter
+• Tableau Essential Training by Curt Frye
+
+Amazon Web Services Academy:
+• AWS Academy Data Engineering Course
+
+LANGUAGES
+
+• English - Fluent
+• Malayalam - Native
+• Hindi - Fluent
+• Arabic - Beginner
+• French - Beginner
+```
+
+---
+
+## 5. KEY INFORMATION SUMMARY
+
+### Personal Information
+- **Name:** Jerlyn Francis
+- **Age:** 23 years old
+- **Current Location:** Liverpool, UK
+- **Additional Location:** Dubai, UAE
+- **Phone:** +44 7466 548085 (UK) | +971 50 1722664 (UAE)
+- **Email:** jerlyn.francis02@gmail.com
+
+### Education
+1. **MSc Business Analytics & Big Data** - University of Liverpool (Sep 2024 - Sep 2025)
+   - Triple-Crown Accredited (AACSB, AMBA, EQUIS)
+   - Key modules: Data Mining, Machine Learning, Big Data Analytics, Digital Strategy, SAP, Business Simulation
+
+2. **Bachelor of Computer Applications** - Christ University, Bangalore (2020 - May 2023)
+   - GPA: 8.56/10
+
+### Work Experience
+
+1. **Data Analyst Intern** - Practera (June 2025)
+   - Remote, 1-month internship through University of Liverpool
+   - AI-driven employee wellness platform project
+   - Market research, user pain-point analysis, strategic recommendations
+   - Agile workflow with weekly stand-ups
+   - No specific tools - consulting/strategy focus with presentations
+
+2. **Full Stack Developer Intern** - EsyaSoft Technologies (June 2023 - Dec 2023)
+   - Smart utility solutions for energy/water/gas distribution
+   - ASP.NET, Postman APIs, SQL Server
+   - Dashboard development, debugging, documentation
+
+3. **Instructor** - The Blue Umbrella, Dubai (May 2024 - Aug 2024)
+   - Paid volunteering position
+   - Summer camp with special needs and regular students
+   - Facilitated activities, welfare programs
+   - Team collaboration with educators
+
+### Key Project
+**Business Simulation - Technology & Engineering Executive** (University of Liverpool, 2025)
+- Group project, main dissertation component
+- Lumon Nova automotive manufacturing simulation
+- Used: APRIL, SAP, R Programming
+- Led engineering strategy achieving 3.42% market share
+- £1B+ automation investment management
+- Zero product recalls, workforce optimization
+
+### Technical Skills
+- **Programming:** R, Python, SQL, C#, PHP, JavaScript, HTML/CSS
+- **Analytics & BI:** Power BI, Tableau, Qlik, SAP, Excel
+- **Development:** ASP.NET, Laravel, Vue.js, Node.js, Flutter, Flask
+- **Databases:** MySQL, SQL Server, Firebase
+- **Tools:** Git, Postman, Nagios, New Relic, APRIL, AWS
+- **Methodologies:** Agile/Scrum, Data Mining, Machine Learning, TQM
+
+### Languages
+- English (Fluent)
+- Malayalam (Native)
+- Hindi (Fluent)
+- Arabic (Beginner)
+- French (Beginner)
+
+### Career Goals
+- **Short-term:** Part-time/casual jobs (retail, sales, till work) for graduate visa funding
+- **Long-term:** Business Analyst, Data Analyst roles when opportunities arise
+- **Current focus:** Flexible, casual positions in Liverpool area
+
+### Work Authorization
+- Graduate visa in UK (no need to mention on resume)
+- Full right to work
+
+---
+
+## 6. ATS OPTIMIZATION TIPS
+
+### General Best Practices
+1. **Use standard section headers:** Education, Experience, Skills, Certifications
+2. **Avoid tables, text boxes, headers/footers** - ATS can't read them
+3. **Use standard fonts:** Arial, Calibri, Times New Roman
+4. **Save as .docx or PDF** (check job posting preference)
+5. **Use keywords from job description** throughout resume
+6. **Quantify achievements** with numbers, percentages, results
+7. **Keep formatting simple** - no columns, graphics, or fancy designs
+
+### Keywords to Include Based on Job Type
+
+**For Data/Business Analyst Roles:**
+- Data analysis, business intelligence, SQL, Python, R
+- Power BI, Tableau, data visualization
+- Statistical analysis, predictive modeling
+- Business requirements, stakeholder management
+- Agile, cross-functional collaboration
+- KPIs, metrics, reporting
+- Problem-solving, critical thinking
+
+**For Retail Roles:**
+- Customer service, customer experience
+- Sales, upselling, cross-selling
+- Cash handling, POS systems
+- Merchandising, inventory management
+- Team collaboration, team player
+- Flexible availability, shift work
+- Product knowledge, customer engagement
+- Loss prevention, shrinkage control
+
+### Tailoring Your Resume for Each Application
+
+1. **Read the job description carefully** - highlight key requirements
+2. **Mirror the language** - use same terms they use
+3. **Prioritize relevant experience** - put most relevant roles first
+4. **Adjust your summary** - align with specific role requirements
+5. **Include relevant keywords** naturally throughout
+6. **Remove irrelevant information** - keep it focused
+
+### Common ATS Mistakes to Avoid
+
+❌ Using headers/footers for contact information
+❌ Using tables or text boxes
+❌ Using images, logos, or graphics
+❌ Using unusual fonts or heavy formatting
+❌ Abbreviating without spelling out (use "Search Engine Optimization (SEO)")
+❌ Using creative section titles (stick to standard ones)
+❌ Submitting as image file or non-standard format
+❌ Keyword stuffing (make it natural)
+
+### Testing Your Resume
+
+Before submitting:
+1. Copy/paste into plain text document - does it still make sense?
+2. Check for typos and formatting issues
+3. Ensure dates are consistent (Month Year format)
+4. Verify all contact information is correct
+5. Remove any outdated information
+6. Ask someone to review it
+
+---
+
+## 7. CHANGES MADE FROM ORIGINAL RESUME
+
+### Removed:
+- Indian address/phone number
+- "Aspiring" language in summary
+- Old undergraduate projects (Agventure, Inzestio, EatAssured)
+- Outdated career objective about "embarking on Master's program"
+
+### Added:
+- UK phone number and Liverpool address
+- MSc degree and relevant coursework
+- Practera Data Analyst internship
+- Business Simulation project with quantifiable achievements
+- Blue Umbrella instructor role
+- Updated technical skills from Masters program
+- More professional, results-focused language
+
+### Improved:
+- Quantified achievements with numbers and percentages
+- Used action verbs (Led, Developed, Achieved, Managed)
+- Focused on business impact, not just tasks
+- Made language more ATS-friendly
+- Tailored two versions for different role types
+- Enhanced professional summary for career stage
+
+---
+
+## 8. NEXT STEPS & RECOMMENDATIONS
+
+### Immediate Actions:
+1. **Update LinkedIn profile** to match resume
+2. **Create digital portfolio** if applicable (for data analyst roles)
+3. **Prepare interview responses** for common questions
+4. **Network on LinkedIn** - connect with UoL alumni in target companies
+5. **Set up job alerts** for relevant positions
+
+### Application Strategy:
+1. **Apply broadly** while visa funding is priority
+2. **Tailor each application** - don't send generic resumes
+3. **Follow up** on applications after 1-2 weeks
+4. **Track applications** in spreadsheet (company, role, date, status)
+5. **Keep learning** - online courses while job searching
+
+### Interview Preparation:
+1. Research the company thoroughly
+2. Prepare STAR method examples for behavioral questions
+3. Have questions ready to ask interviewer
+4. Practice explaining career transition (tech → analytics → retail if needed)
+5. Prepare to discuss projects with specific examples
+
+### Visa Considerations:
+- Don't mention graduate visa on resume (employers assume you have right to work)
+- Be prepared to discuss it if asked in interview
+- Understand your visa conditions and work hour limits
+- Keep documentation ready if needed
+
+---
+
+## DOCUMENT INFORMATION
+
+**Created for:** Jerlyn Francis
+**Date:** May 2025
+**Purpose:** Comprehensive resume package for job applications in UK
+**Target Roles:** Data Analyst, Business Analyst, Retail Sales positions
+**Status:** Ready for use and customization
+
+**How to Use This Document:**
+1. Copy relevant resume version to Word document
+2. Customize for specific job application
+3. Match keywords from job description
+4. Proofread carefully before submitting
+5. Save with appropriate filename (e.g., "JerlynFrancis_DataAnalyst_CompanyName.pdf")
+
+**Need Updates?**
+Keep this document as your master reference and update it as you:
+- Gain new experience
+- Complete new projects
+- Acquire new certifications
+- Develop new skills
+
+Good luck with your applications! 🎯
+```
