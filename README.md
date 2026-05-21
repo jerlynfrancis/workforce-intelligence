@@ -7,7 +7,7 @@
    ╚═══════════════════════════════════════════════════════════════╝
 ```
 
-**Live dashboard → [cog-workforce-intelligence.vercel.app](https://cog-workforce-intelligence.vercel.app)**
+**Live dashboard → [cog-workforce-intelligence.vercel.app](https://cog-workforce-intell.vercel.app)**
 
 ---
 
