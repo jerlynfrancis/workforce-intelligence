@@ -1,0 +1,66 @@
+{
+  "0": {
+    "label": "Agency-Dependent + Weekend-SL-Gap + Low-SL + High-Cost + Volatile-Demand",
+    "count": 4,
+    "sites": [
+      "Newcastle COG Large",
+      "Portsmouth COG Large",
+      "Cardiff COG Large",
+      "Swindon COG Large"
+    ]
+  },
+  "1": {
+    "label": "Agency-Dependent + High-Absence + Volatile-Demand + Forecast-Poor",
+    "count": 8,
+    "sites": [
+      "Edinburgh COG Express",
+      "Manchester COG Large",
+      "Bradford COG Standard",
+      "Carlisle COG Small",
+      "Nottingham COG Standard",
+      "Coventry COG Standard",
+      "Stoke COG Standard",
+      "Peterborough COG Small"
+    ]
+  },
+  "2": {
+    "label": "High-Absence + Weekend-SL-Gap + Low-SL + High-Cost + Volatile-Demand",
+    "count": 21,
+    "sites": [
+      "Leeds COG Small",
+      "Sheffield COG Small",
+      "Hull COG Small",
+      "Preston COG Express",
+      "Birmingham COG Small",
+      "Derby COG Small",
+      "Wolverhampton COG Standard",
+      "Lincoln COG Standard",
+      "Norwich COG Standard",
+      "Ipswich COG Small",
+      "London COG Standard",
+      "Croydon COG Small",
+      "Southampton COG Standard",
+      "Brighton COG Small",
+      "Oxford COG Small",
+      "Cambridge COG Small",
+      "Bristol COG Small",
+      "Exeter COG Standard",
+      "Bournemouth COG Express",
+      "Dover COG Standard",
+      "Guildford COG Small"
+    ]
+  },
+  "3": {
+    "label": "Agency-Dependent + Volatile-Demand",
+    "count": 7,
+    "sites": [
+      "Glasgow COG Small",
+      "Liverpool COG Standard",
+      "York COG Small",
+      "Leicester COG Standard",
+      "Northampton COG Large",
+      "Milton Keynes COG Small",
+      "Reading COG Small"
+    ]
+  }
+}

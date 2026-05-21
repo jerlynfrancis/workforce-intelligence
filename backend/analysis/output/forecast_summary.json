@@ -1,0 +1,282 @@
+[
+  {
+    "site_id": 1,
+    "has_forecast": true,
+    "forecast_error": null,
+    "last_demand": 153.7,
+    "avg_forecast_next_28d": 152.66
+  },
+  {
+    "site_id": 2,
+    "has_forecast": true,
+    "forecast_error": null,
+    "last_demand": 60.1,
+    "avg_forecast_next_28d": 80.46
+  },
+  {
+    "site_id": 3,
+    "has_forecast": true,
+    "forecast_error": null,
+    "last_demand": 317.6,
+    "avg_forecast_next_28d": 432.09
+  },
+  {
+    "site_id": 4,
+    "has_forecast": true,
+    "forecast_error": null,
+    "last_demand": 113.5,
+    "avg_forecast_next_28d": 143.9
+  },
+  {
+    "site_id": 5,
+    "has_forecast": true,
+    "forecast_error": null,
+    "last_demand": 460.9,
+    "avg_forecast_next_28d": 454.43
+  },
+  {
+    "site_id": 6,
+    "has_forecast": true,
+    "forecast_error": null,
+    "last_demand": 255.8,
+    "avg_forecast_next_28d": 287.37
+  },
+  {
+    "site_id": 7,
+    "has_forecast": true,
+    "forecast_error": null,
+    "last_demand": 124.2,
+    "avg_forecast_next_28d": 157.06
+  },
+  {
+    "site_id": 8,
+    "has_forecast": true,
+    "forecast_error": null,
+    "last_demand": 218.6,
+    "avg_forecast_next_28d": 291.74
+  },
+  {
+    "site_id": 9,
+    "has_forecast": true,
+    "forecast_error": null,
+    "last_demand": 135.2,
+    "avg_forecast_next_28d": 146.86
+  },
+  {
+    "site_id": 10,
+    "has_forecast": true,
+    "forecast_error": null,
+    "last_demand": 138.0,
+    "avg_forecast_next_28d": 154.93
+  },
+  {
+    "site_id": 11,
+    "has_forecast": true,
+    "forecast_error": null,
+    "last_demand": 121.0,
+    "avg_forecast_next_28d": 142.02
+  },
+  {
+    "site_id": 12,
+    "has_forecast": true,
+    "forecast_error": null,
+    "last_demand": 61.1,
+    "avg_forecast_next_28d": 76.61
+  },
+  {
+    "site_id": 13,
+    "has_forecast": true,
+    "forecast_error": null,
+    "last_demand": 121.5,
+    "avg_forecast_next_28d": 149.23
+  },
+  {
+    "site_id": 14,
+    "has_forecast": true,
+    "forecast_error": null,
+    "last_demand": 245.6,
+    "avg_forecast_next_28d": 267.17
+  },
+  {
+    "site_id": 15,
+    "has_forecast": true,
+    "forecast_error": null,
+    "last_demand": 210.1,
+    "avg_forecast_next_28d": 268.85
+  },
+  {
+    "site_id": 16,
+    "has_forecast": true,
+    "forecast_error": null,
+    "last_demand": 115.2,
+    "avg_forecast_next_28d": 141.94
+  },
+  {
+    "site_id": 17,
+    "has_forecast": true,
+    "forecast_error": null,
+    "last_demand": 257.9,
+    "avg_forecast_next_28d": 292.08
+  },
+  {
+    "site_id": 18,
+    "has_forecast": true,
+    "forecast_error": null,
+    "last_demand": 248.1,
+    "avg_forecast_next_28d": 288.73
+  },
+  {
+    "site_id": 19,
+    "has_forecast": true,
+    "forecast_error": null,
+    "last_demand": 421.5,
+    "avg_forecast_next_28d": 462.06
+  },
+  {
+    "site_id": 20,
+    "has_forecast": true,
+    "forecast_error": null,
+    "last_demand": 240.5,
+    "avg_forecast_next_28d": 274.45
+  },
+  {
+    "site_id": 21,
+    "has_forecast": true,
+    "forecast_error": null,
+    "last_demand": 232.4,
+    "avg_forecast_next_28d": 271.84
+  },
+  {
+    "site_id": 22,
+    "has_forecast": true,
+    "forecast_error": null,
+    "last_demand": 117.7,
+    "avg_forecast_next_28d": 145.6
+  },
+  {
+    "site_id": 23,
+    "has_forecast": true,
+    "forecast_error": null,
+    "last_demand": 158.8,
+    "avg_forecast_next_28d": 160.61
+  },
+  {
+    "site_id": 24,
+    "has_forecast": true,
+    "forecast_error": null,
+    "last_demand": 220.7,
+    "avg_forecast_next_28d": 274.79
+  },
+  {
+    "site_id": 25,
+    "has_forecast": true,
+    "forecast_error": null,
+    "last_demand": 113.4,
+    "avg_forecast_next_28d": 142.84
+  },
+  {
+    "site_id": 26,
+    "has_forecast": true,
+    "forecast_error": null,
+    "last_demand": 214.2,
+    "avg_forecast_next_28d": 268.17
+  },
+  {
+    "site_id": 27,
+    "has_forecast": true,
+    "forecast_error": null,
+    "last_demand": 153.4,
+    "avg_forecast_next_28d": 161.08
+  },
+  {
+    "site_id": 28,
+    "has_forecast": true,
+    "forecast_error": null,
+    "last_demand": 124.5,
+    "avg_forecast_next_28d": 150.82
+  },
+  {
+    "site_id": 29,
+    "has_forecast": true,
+    "forecast_error": null,
+    "last_demand": 238.5,
+    "avg_forecast_next_28d": 274.95
+  },
+  {
+    "site_id": 30,
+    "has_forecast": true,
+    "forecast_error": null,
+    "last_demand": 429.4,
+    "avg_forecast_next_28d": 448.23
+  },
+  {
+    "site_id": 31,
+    "has_forecast": true,
+    "forecast_error": null,
+    "last_demand": 131.4,
+    "avg_forecast_next_28d": 137.98
+  },
+  {
+    "site_id": 32,
+    "has_forecast": true,
+    "forecast_error": null,
+    "last_demand": 119.2,
+    "avg_forecast_next_28d": 154.86
+  },
+  {
+    "site_id": 33,
+    "has_forecast": true,
+    "forecast_error": null,
+    "last_demand": 114.6,
+    "avg_forecast_next_28d": 144.46
+  },
+  {
+    "site_id": 34,
+    "has_forecast": true,
+    "forecast_error": null,
+    "last_demand": 138.9,
+    "avg_forecast_next_28d": 152.61
+  },
+  {
+    "site_id": 35,
+    "has_forecast": true,
+    "forecast_error": null,
+    "last_demand": 401.2,
+    "avg_forecast_next_28d": 478.85
+  },
+  {
+    "site_id": 36,
+    "has_forecast": true,
+    "forecast_error": null,
+    "last_demand": 239.9,
+    "avg_forecast_next_28d": 298.81
+  },
+  {
+    "site_id": 37,
+    "has_forecast": true,
+    "forecast_error": null,
+    "last_demand": 75.5,
+    "avg_forecast_next_28d": 76.59
+  },
+  {
+    "site_id": 38,
+    "has_forecast": true,
+    "forecast_error": null,
+    "last_demand": 366.1,
+    "avg_forecast_next_28d": 430.52
+  },
+  {
+    "site_id": 39,
+    "has_forecast": true,
+    "forecast_error": null,
+    "last_demand": 193.4,
+    "avg_forecast_next_28d": 279.71
+  },
+  {
+    "site_id": 40,
+    "has_forecast": true,
+    "forecast_error": null,
+    "last_demand": 128.0,
+    "avg_forecast_next_28d": 161.67
+  }
+]
